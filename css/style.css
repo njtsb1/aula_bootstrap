@@ -1,0 +1,31 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: greenyellow
+}
+
+.Who-were {
+    background-color:lightcoral;
+    color:darkblue
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.Partners{
+    background-color:darkorange;
+    color: darkred
+}
+.Services{
+    background-color:darkturquoise;
+    color:blue
+}
+
+.bg-footer{
+    background-color:black;
+    color: white;
+}
